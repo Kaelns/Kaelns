@@ -10,18 +10,6 @@
 
 ### 🎓 Skills
 
-<style>
-  .container {
-    align: center
-  }
-  
-  @media (min-width: 768px) {
-    .container {
-      align: left
-    }
-  }
-</style>
-
 <div align="center">
   <a href="https://www.w3schools.com/css/" target="_blank"><img
       style="margin: 10px"
