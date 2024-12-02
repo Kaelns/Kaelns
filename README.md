@@ -2,7 +2,7 @@
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;I am Yura Ogonovski. I spend most of my time coding projects and learning something new/ Commutation skills at a high level. I am looking for my first job in which I will develop and grow to a strong technical specialist.
+&nbsp;&nbsp;&nbsp;&nbsp;I am Yura Ogonovski, Frontend Web Developer. My main area of professional activity is the React library. I like to spend most of my time coding projects and learning something new. However I also like to chat so I'm open to conversations. Can't wait to get my first job in which I will develop and grow to a strong technical specialist.
 
 - 🌍  I'm based in **Belarus**, **Minsk**
 - 🖥️  See my portfolio at **[My portfolio](http://github.com/Kaelns/protfolio)**
@@ -120,7 +120,7 @@
   <a href="https://t.me/Kaelns"
   ><img
       alt="Telegram Badge"
-      src="https://img.shields.io/badge/-@Kaelns-1ca0f1?style=flat&amp;logo=telegram&amp;logoColor=white&amp;labelColor=1ca0f1&amp;link=https://t.me/Kaelns"
+      src="https://img.shields.io/badge/-@Kaelns-1ca0f1?style=flat&amp;logo=telegram&amp;logoColor=white&amp;labelColor=1ca0f1"
       height="27px"
     /></a>
   <a href="https://www.linkedin.com/in/yury-ogonovski-526633329/"
@@ -143,7 +143,7 @@
 
 <div align="center">
 
-&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaelns&repo=eCommerce&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=80307a,6f2c96,2f419b&hide_border=true&locale=en)](https://github.com/Kaelns/eCommerce)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaelns&repo=nodeJS&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=6f2c96,2f419b,80307a&hide_border=true&locale=en)](https://github.com/Kaelns/nodeJS)
+&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaelns&repo=eCommerce-Fronted&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=80307a,6f2c96,2f419b&hide_border=true&locale=en)](https://github.com/Kaelns/eCommerce-Fronted)&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kaelns&repo=eCommerce-Backend&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=6f2c96,2f419b,80307a&hide_border=true&locale=en)](https://github.com/Kaelns/eCommerce-Backend)
 
 </div>
 
