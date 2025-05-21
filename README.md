@@ -4,9 +4,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;I am Yura Ogonovski, Frontend Web Developer. My main area of professional activity is the React library. I like to spend most of my time coding projects and learning something new. However I also like to chat so I'm open to conversations. Can't wait to get my first job in which I will develop and grow to a strong technical specialist.
 
-- 🌍  I'm based in **Belarus**, **Minsk**
-- 🖥️  See my portfolio at **[My portfolio](http://github.com/Kaelns/protfolio)**
-- 🧠  I'm currently learning **Redux Query**
+-   🌍  I'm based in **Belarus**, **Minsk**
+-   🖥️  See my portfolio at **[My portfolio](http://github.com/Kaelns/protfolio)**
+-   🧠  I'm currently learning **Redux Query**
 
 ### 🎓 Skills
 
@@ -139,7 +139,7 @@
 
 ### ⭐ Badges
 
-- **🗂️ Pet Project**
+-   **🗂️ Pet Project**
 
 <div align="center">
 
@@ -147,10 +147,11 @@
 
 </div>
 
-- **⚡ Codewars**
+-   **⚡ Tasks**
 
 <div align="center">
 
 ![Codewars](https://github.r2v.ch/codewars?user=Kaelns&hide_clan=true&theme=gradient)
+![Leetcode](https://leetcard.jacoblin.cool/Kaelns?ext=heatmap)
 
 </div>
